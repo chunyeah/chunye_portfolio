@@ -16,6 +16,9 @@ function App() {
         <Link block target='_blank' href='https://rainbow.me/chunye.eth'>
             chunye.eth
         </Link>
+        <Link block target='_blank' href='https://petit.today'>
+            Petit project
+        </Link>
         <Link block color target='_blank' href='https://mirror.xyz/chunye.eth'>
           Mirror Blog
         </Link>
