@@ -13,8 +13,8 @@ function App() {
         <Text p>
           Hey there! I'm Chun Ye. I'm a developer at Shanghai, China.
         </Text>
-        <Link block target='_blank' href='https://rainbow.me/chunye.eth'>
-            chunye.eth
+        <Link block target='_blank' href='https://awesome-mirror.xyz'>
+            Awesome Mirror project
         </Link>
         <Link block target='_blank' href='https://petit.today'>
             Petit project
@@ -22,11 +22,20 @@ function App() {
         <Link block color target='_blank' href='https://mirror.xyz/chunye.eth'>
           Mirror Blog
         </Link>
+        <Link block target='_blank' href='https://rainbow.me/chunye.eth'>
+            chunye.eth
+        </Link>
         <Link block target='_blank' href='https://github.com/chunyeah'>
           GitHub
         </Link>
         <Link block target='_blank' href='https://twitter.com/chunyeah'>
           Twitter
+        </Link>
+        <Link block target='_blank' href='https://t.me/chunyeah'>
+          Telegram
+        </Link>
+        <Link block target='_blank' href='mailto:yechunjun@gmail.com'>
+          Email
         </Link>
       </div>
     </Page>
