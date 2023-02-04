@@ -3,7 +3,6 @@ import { Text, Page, Link } from '@geist-ui/react';
 import './App.css';
 
 function App() {
-
   return (
     <Page size='small' style={{ padding: '0 0.66rem', background: '#fff' }}>
       <div>
@@ -13,17 +12,11 @@ function App() {
         <Text p>
           Hey there! I'm Chun Ye. I'm a developer at Shanghai, China.
         </Text>
-        <Link block target='_blank' href='https://awesome-mirror.xyz'>
-            Awesome Mirror project
-        </Link>
         <Link block target='_blank' href='https://petit.today'>
-            Petit project
+            Petit App
         </Link>
-        <Link block color target='_blank' href='https://mirror.xyz/chunye.eth'>
-          Mirror Blog
-        </Link>
-        <Link block target='_blank' href='https://rainbow.me/chunye.eth'>
-            chunye.eth
+        <Link block color target='_blank' href='https://apps.apple.com/app/id1661247540'>
+            LanguagePro App
         </Link>
         <Link block target='_blank' href='https://github.com/chunyeah'>
           GitHub
